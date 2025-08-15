@@ -1,0 +1,3 @@
+# gabin.quest
+
+lorem ipsum...
